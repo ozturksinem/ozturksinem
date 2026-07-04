@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Sinem 👋
 
-<!--
-**ozturksinem/ozturksinem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Industrial Engineering graduate from Türkiye.
 
-Here are some ideas to get you started:
+I'm currently building my expertise in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Artificial Intelligence
+- Operations Research
+- Machine Learning
+- Data Science
+- Supply Chain Analytics
+
+## Current Goal
+
+To become a world-class AI & Decision Intelligence Engineer.
+
+## Currently Learning
+
+- Python
+- SQL
+- Git
+- Machine Learning
+
+## Long-Term Vision
+
+Building AI systems that solve real-world industrial problems.
