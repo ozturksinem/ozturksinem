@@ -1,8 +1,10 @@
-# Hi, I'm Sinem 👋
+# Hello, I'm Sinem Öztürk
 
-Industrial Engineering graduate from Türkiye.
+Industrial Engineer passionate about Artificial Intelligence, Decision Intelligence and Optimization.
 
-I'm currently building my expertise in:
+My mission is to bridge Artificial Intelligence and Industrial Engineering to build intelligent decision systems that improve industries and create measurable impact.
+
+Areas of Interest:
 
 - Artificial Intelligence
 - Operations Research
@@ -12,15 +14,16 @@ I'm currently building my expertise in:
 
 ## Current Goal
 
-To become a world-class AI & Decision Intelligence Engineer.
+Design AI-powered decision systems that improve industries through optimization, data and intelligent automation.
 
-## Currently Learning
+## Current Focus
 
-- Python
+- Python Programming
 - SQL
-- Git
-- Machine Learning
+- Git & GitHub
+- Data Analytics
+- Operations Research
 
 ## Long-Term Vision
 
-Building AI systems that solve real-world industrial problems.
+My long-term vision is to bridge Artificial Intelligence and Industrial Engineering to create smarter, more efficient and sustainable systems.
